@@ -1,6 +1,6 @@
 # Image reconstruction by multivariate kernel density estimation
-The application, written in [R language](https://cran.r-project.org/), is devoted to image reconstruction for J-PET, 
-using multivariate kernel density estimation (KDE).
+The application, written in [R language](https://cran.r-project.org/), is devoted to image reconstruction for J-PET,
+using [multivariate kernel density estimation (KDE)](https://en.wikipedia.org/wiki/Multivariate_kernel_density_estimation "Wikipedia").
 
 ## Prerequisites
 Tested on Ubuntu 16.04 LTE with R version 3.4.4 installed. The script operates with a number of shell commands 
