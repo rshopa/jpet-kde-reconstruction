@@ -51,5 +51,5 @@ $ Rscript [--vanilla] MapHitsToCentresOfStrips.R <parameters.json>
 $ Rscript [--vanilla] DetectAnnihilationPoints.R <parameters.json>
 $ Rscript [--vanilla] EngageKDEReconstruction.R <parameters.json>
 ```
-The option [```--vanilla```](https://stat.ethz.ch/R-manual/R-devel/library/base/html/Startup.html) prevents Rscript from 
-reading R history, profile, or environment files, as well as reloading data or objects from previous sessions.
+The option ```--vanilla``` [prevents Rscript from
+reading R history, profile, or environment files, as well as reloading data or objects from previous sessions](https://stat.ethz.ch/R-manual/R-devel/library/base/html/Startup.html).
